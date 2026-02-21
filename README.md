@@ -1,2 +1,2 @@
 # tkinter-multi-window
-A simple Python Tkinter
+A simple Py
